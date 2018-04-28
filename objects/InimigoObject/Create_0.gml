@@ -19,7 +19,5 @@ switch(ceil(irandom(1))){
 	direction = global.direita;
 	break;
 }
-speed = 5;
+speed = 10;
 //instance_create_layer(InimigoObject.x,InimigoObject.y,"Instances",SensorInimigo);
-randomNUm = ceil(random(4));
-show_message("Ale: " + string(randomNUm));

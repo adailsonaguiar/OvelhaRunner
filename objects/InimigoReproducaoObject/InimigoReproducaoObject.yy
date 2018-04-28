@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "InimigoReproducaoObject",
     "eventList": [
-        
+        {
+            "id": "4b8d7dc0-00a5-4626-a520-40fa617198a0",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "fef73390-b8c5-4795-901a-f07ecca6f2c7",
+            "enumb": 0,
+            "eventtype": 4,
+            "m_owner": "c312ceaf-eb08-4b29-ac9e-0118d6f733df"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
