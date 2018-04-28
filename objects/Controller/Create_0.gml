@@ -6,3 +6,4 @@ global.esquerda = 180;
 global.baixo = 270;
 global.cima = 90;
 //global.colisaoInimigo = false;
+global.contadorNivel= 0;
