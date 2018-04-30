@@ -16,6 +16,6 @@ if (keyboard_check(vk_right)){
 	direction = global.direita;
    speed = 10;
 }
-if (keyboard_check(vk_space)){
+if (keyboard_check_pressed(vk_space)){
 	instance_create_layer(x,y,"Instances",ObjectLan);	
 }
